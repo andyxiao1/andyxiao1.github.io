@@ -6,7 +6,6 @@ layout: compress
 <html>
 {% include head.html %}
   <body id="posts">
-
     <div class="block-left">
       <div class="content">
         <a href="{{ site.url }}" class="logo"><img src="{{ site.url }}/images/{{ site.logo | replace: '.', '-small.' }}"></a>
@@ -16,7 +15,30 @@ layout: compress
     </div>
 
     <div class="block-right">
-      <a href="posts.html" title="posts" class="posts-menu-icon"></a>
+      <a title="projects" class="projects-menu-icon">
+        <span></span>
+      </a>
+      <div class="content">
+        <ul class="posts-list">
+        {% for course in site.data.courses %}
+          <li>
+            <h2>
+              {{ course.title }}
+            </h2>
+            <ul class="posts-list">
+              <li>{{ course.c1 }}: {{ course.t1 }}</li>
+              <li>{{ course.c2 }}: {{ course.t2 }}</li>
+              <li>{{ course.c3 }}: {{ course.t3 }}</li>
+              <li>{{ course.c4 }}: {{ course.t4 }}</li>
+              <li>{{ course.c5 }}: {{ course.t5 }}</li>
+            </ul>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+<!--
+    <div class="block-right">
       <a title="projects" class="projects-menu-icon">
         <span></span>
       </a>
@@ -43,6 +65,7 @@ layout: compress
         </ul>
       </div>
     </div>
+-->
     {% include overlay.html %}
     {% include scripts.html %}
   </body>

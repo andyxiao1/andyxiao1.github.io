@@ -1,10 +1,10 @@
 ---
 layout: home
 ---
-# About Theme
+# About Me
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+Hi! I'm Andy, a freshman at the University of Pennsylvania.
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+I'm currently pursuing a B.S.E. in Computer Science through the School of Engineering and plan to minor in Statistics through Wharton and Engineering Entrepeneurship.
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+Feel free to contact me if you have any questions or just want to chat.

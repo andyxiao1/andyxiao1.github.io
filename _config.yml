@@ -1,7 +1,7 @@
 # Site
-title: Halve
-description: Stylish, Two-Column Jekyll Theme
-url: https://taylantatli.github.io/Halve
+title: Andy Xiao
+description: Computer Science Student at the University of Pennsylvania
+url: https://andyxiao1.github.io/
 logo: halve.png                                       # Site logo
 locale: en_US
 
@@ -29,13 +29,14 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-#email:             email
+email:             andyxiao@seas.upenn.edu
+linkedin:          andy-xiao-upenn/
+github:             andyxiao1
+resume:             resume.pdf
 #google.plus:        username
-twitter:            username
+#twitter:            username
 #facebook:           username
-github:             username
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #xing:              username
 #instagram:          username
 #lastfm:            username
@@ -52,7 +53,8 @@ stackoverflow:     123456/username   from a "http://stackoverflow.com/users/1234
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+#behance:           username
+
 
 # Gems
 gems:

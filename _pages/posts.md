@@ -1,6 +1,6 @@
 ---
 layout: post-list
-title: Posts
+title: Courses
 description: "List of posts"
 permalink: /posts.html
 ---

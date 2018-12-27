@@ -1,2 +1,2 @@
 This is my personal website!
-[andyxiao1.github.io]
+[click here to check it out!] (andyxiao1.github.io)

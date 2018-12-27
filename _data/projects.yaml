@@ -1,9 +1,9 @@
 - title: Spaceship Attack
   url: https://github.com/andyxiao1/spaceship-attack
-  image:
+  image: images/spaceship-attack-gameplay.png
   completed: true
 
 - title: Conway's Game of Life
   url: https://github.com/andyxiao1/game-of-life
-  image:
+  image: images/game-of-life.png
   completed: true

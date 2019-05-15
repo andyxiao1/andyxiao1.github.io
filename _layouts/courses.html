@@ -4,13 +4,17 @@ layout: compress
 
 <!DOCTYPE html>
 <html>
-{% include head.html %}
+  {% include head.html %}
   <body id="posts">
     <div class="block-left">
       <div class="content">
-        <a href="{{ site.url }}" class="logo"><img src="{{ site.url }}/images/{{ site.logo | replace: '.', '-small.' }}"></a>
-        <h1 class="section-title">{{ page.title}}<em>/</em>
-        </h1>
+        <a href="{{ site.url }}" class="logo"
+          ><img
+            src="{{
+              site.url
+            }}/images/{{ site.logo | replace: '.', '-small.' }}"
+        /></a>
+        <h1 class="section-title">{{ page.title }}<em>/</em></h1>
       </div>
     </div>
 
@@ -20,7 +24,7 @@ layout: compress
       </a>
       <div class="content">
         <ul class="posts-list">
-        {% for course in site.data.courses %}
+          {% for course in site.data.courses %}
           <li>
             <h2>
               {{ course.title }}
@@ -30,14 +34,15 @@ layout: compress
               <li>{{ course.c2 }}: {{ course.t2 }}</li>
               <li>{{ course.c3 }}: {{ course.t3 }}</li>
               <li>{{ course.c4 }}: {{ course.t4 }}</li>
+              {% if course.title != "Fall 2019" %}
               <li>{{ course.c5 }}: {{ course.t5 }}</li>
+              {% endif %}
             </ul>
           </li>
           {% endfor %}
         </ul>
       </div>
     </div>
-    {% include overlay.html %}
-    {% include scripts.html %}
+    {% include overlay.html %} {% include scripts.html %}
   </body>
 </html>

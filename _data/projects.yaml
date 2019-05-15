@@ -1,3 +1,18 @@
+- title: Penn Course Scheduler
+  url: https://github.com/andyxiao1/penn-course-scheduler
+  image: images/scheduler.png
+  completed: true
+
+- title: Shared Paper
+  url: https://github.com/andyxiao1/shared-paper
+  image: images/
+  completed: true
+
+- title: Poker With Friends
+  url: https://github.com/andyxiao1/poker
+  image: images/poker.png
+  completed: true
+
 - title: Spaceship Attack
   url: https://github.com/andyxiao1/spaceship-attack
   image: images/spaceship-attack-gameplay.png

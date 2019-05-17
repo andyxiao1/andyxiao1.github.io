@@ -1,9 +1,10 @@
 # Site
 title: Andy Xiao
 description: Computer Science Student at the University of Pennsylvania
-url: http://andyxiao1.github.io
 logo: halve.png # Site logo
 locale: en_US
+baseurl: /
+url: http://USERNAME.github.io
 
 # Left Block Images
 background:

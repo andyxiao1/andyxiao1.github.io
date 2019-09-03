@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/courses.html</loc>
+<loc>https://andyxiao.co/courses.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>https://andyxiao.co/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/tags.html</loc>
+<loc>https://andyxiao.co/tags.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/resume.pdf</loc>
-<lastmod>2019-01-07T20:16:11-05:00</lastmod>
+<loc>https://andyxiao.co/resume.pdf</loc>
+<lastmod>2019-09-02T21:51:00-04:00</lastmod>
 </url>
 </urlset>

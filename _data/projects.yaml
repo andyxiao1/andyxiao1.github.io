@@ -9,9 +9,9 @@
   completed: true
 
 - title: Pathways
-url: https://github.com/andyxiao1/pathways
-image: images/pathways.png
-completed: true
+  url: https://github.com/andyxiao1/pathways
+  image: images/pathways.png
+  completed: true
 
 - title: Poker With Friends
   url: https://github.com/andyxiao1/poker

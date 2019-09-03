@@ -1,6 +1,6 @@
 - title: Shared Paper
   url: https://github.com/andyxiao1/shared-paper
-  image: images/
+  image: images/shared-paper.png
   completed: true
 
 - title: Penn Course Scheduler
@@ -10,7 +10,7 @@
 
 - title: Pathways
 url: https://github.com/andyxiao1/pathways
-image: images/
+image: images/pathways.png
 completed: true
 
 - title: Poker With Friends

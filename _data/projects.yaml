@@ -1,6 +1,26 @@
+- title: Mini Google
+  url: https://github.com/andyxiao1/mini-google
+  image:
+  completed: true
+
+- title: TCP Chat Server
+  url: https://github.com/andyxiao1/tcp-chat-server
+  image:
+  completed: true
+
 - title: Shared Paper
   url: https://github.com/andyxiao1/shared-paper
   image: images/shared-paper.png
+  completed: true
+
+- title: Penn Safe
+  url: https://github.com/andyxiao1/pennsafe
+  image:
+  completed: true
+
+- title: Restaurant Picker
+  url: https://github.com/andyxiao1/restaurant-picker
+  image:
   completed: true
 
 - title: Penn Course Scheduler
